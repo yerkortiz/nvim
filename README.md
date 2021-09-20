@@ -16,4 +16,4 @@ List of plugins:
 - [nvim-web-devicons] (https://github.com/kyazdani42/nvim-web-devicons)
 
 Capture: 
-![alt text](https://github.com/yerkortiz/nvim/blob/master/captures/capture1.jpg "Capture
+![alt text](https://github.com/yerkortiz/nvim/blob/master/captures/capture1.jpg)
