@@ -16,5 +16,5 @@ Nvim configuration written in lua
 - [barbar](https://github.com/romgrk/barbar.nvim)
 - [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
 
-Capture: 
+## Capture: 
 ![alt text](https://github.com/yerkortiz/nvim/blob/master/captures/capture1.jpg)
