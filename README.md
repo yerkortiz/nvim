@@ -1,10 +1,10 @@
-### NVIM 
+# NVIM 
 Nvim configuration written in lua
 
-# Package manager:
+## Package manager:
 - [Paq](https://github.com/savq/paq-nvim)
 
-# Plugins:
+## Plugins:
 
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 - [TokyoNight](https://github.com/folke/tokyonight.nvim)
