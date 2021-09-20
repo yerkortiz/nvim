@@ -1,3 +1,4 @@
+package.path = package.path .. ';~/.config/nvim/init.lua'
 local vim = vim
 local vcmd = vim.cmd  -- to execute Vim commands e.g. cmd('pwd')
 
@@ -19,7 +20,8 @@ paq {'romgrk/barbar.nvim'}
 paq {'nvim-telescope/telescope.nvim'}
 paq {'nvim-lua/plenary.nvim'}
 
-require'status_line.evil_line'
+local evil_line = require('status_line.evil_line')
+
 require'nvim-tree.view'
 vcmd'autocmd BufWritePre *.go lua vim.lsp.buf.formatting()'
 vcmd'set clipboard+=unnamedplus'
